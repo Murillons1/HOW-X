@@ -1,117 +1,115 @@
 # HOW-IX
-# 💰 Finance Track - Aplicativo de Controle Financeiro
+
+# 📱 Finance Track
+
+Aplicativo mobile desenvolvido para auxiliar no controle financeiro pessoal de forma simples, intuitiva e acessível.
+
+---
 
 ## 📌 Sobre o Projeto
-O **Finance Track** é um aplicativo desenvolvido com o objetivo de ajudar usuários a controlarem suas finanças pessoais de forma simples, prática e eficiente.
 
-O projeto foi criado como parte da disciplina do curso de **Análise e Desenvolvimento de Sistemas**, visando aplicar conceitos de engenharia de software, metodologias ágeis e modelagem de negócios.
+O **Finance Track** foi criado com o objetivo de ajudar usuários a organizarem suas finanças, controlando receitas e despesas e promovendo maior consciência sobre hábitos de consumo.
 
----
-
-## 🎯 Objetivo
-Desenvolver uma solução digital que permita aos usuários:
-
-- Registrar receitas e despesas
-- Categorizar gastos
-- Visualizar relatórios financeiros
-- Melhorar a organização financeira pessoal
+O projeto foi desenvolvido como parte de um trabalho acadêmico no curso de Análise e Desenvolvimento de Sistemas.
 
 ---
 
-## 🚀 Funcionalidades (MVP)
+## 🎯 Problema
 
-- Cadastro de usuário
-- Registro de receitas
-- Registro de despesas
-- Visualização de saldo
-- Relatórios básicos
+Muitas pessoas enfrentam dificuldades em controlar suas finanças, o que pode levar ao endividamento e à falta de planejamento financeiro.
+
+---
+
+## 💡 Solução
+
+O Finance Track oferece uma solução prática e eficiente para o gerenciamento financeiro, permitindo:
+
+* Registro de receitas e despesas
+* Cálculo automático de saldo
+* Visualização de extrato financeiro
+* Relatórios gráficos simples
+* Funcionamento offline
+
+---
+
+## 🚀 Funcionalidades
+
+* ✅ Cadastro de receitas  
+* ✅ Cadastro de despesas  
+* ✅ Cálculo automático de saldo  
+* ✅ Visualização de extrato (transações)  
+* ✅ Relatórios gráficos  
+* ✅ Persistência de dados local (Room Database)  
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Linguagem: *(coloque aqui, ex: JavaScript / Python / etc)*
-- Framework: *(ex: React, Node.js, etc)*
-- Prototipação: Figma
-- Gerenciamento: Scrum
+* Kotlin
+* Android Studio
+* Jetpack Compose
+* Arquitetura MVVM
+* Room Database
+* JUnit (Testes)
 
 ---
 
-## 📊 Metodologia
+## 🧪 Testes
 
-O projeto foi desenvolvido utilizando a metodologia ágil **Scrum**, com:
-
-- Sprints de 2 semanas
-- Product Backlog definido
-- Entregas incrementais
+O projeto utiliza a metodologia **TDD (Test-Driven Development)**, com testes unitários desenvolvidos para garantir a confiabilidade das regras de negócio, especialmente no cálculo de saldo.
 
 ---
 
-## 🧠 Diferenciais
+## 📦 Instalação e Execução
 
-- Interface simples e intuitiva
-- Fácil utilização para qualquer usuário
-- Foco em controle financeiro básico (sem complexidade)
+### 🔽 APK
 
----
+1. Baixe o arquivo APK disponível no Arquivo PDF
+2. Abra o aplicativo
 
-## 📈 Possíveis Melhorias Futuras
+### 💻 Executar via Android Studio
 
-- Integração com bancos
-- Gráficos avançados
-- Controle de metas financeiras
-- Notificações de gastos
-
----
-
-## 🧪 Como Executar o Projeto
+1. Clone o repositório:
 
 ```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/finance-track.git
-
-# Acesse a pasta
-cd finance-track
-
-# Instale as dependências
-npm install
-
-# Execute o projeto
-npm start
+git clone (SEU LINK AQUI)
 ```
 
-*(Obs: ajuste os comandos conforme a tecnologia que você usou)*
+2. Abra o projeto no Android Studio
+
+3. Aguarde o carregamento das dependências
+
+4. Execute o projeto em um emulador ou dispositivo físico
+
 
 ---
 
-## 📂 Estrutura do Projeto
+## 📊 Diferenciais
 
-```
-finance-track/
-│── src/
-│── assets/
-│── components/
-│── pages/
-│── README.md
-```
+* Interface simples e intuitiva
+* Funciona offline
+* Foco em usuários iniciantes
+* Leve e de fácil utilização
+
+---
+
+## 🔮 Melhorias Futuras
+
+* Integração com contas bancárias
+* Personalização de categorias
+* Relatórios mais avançados
+* Backup em nuvem
 
 ---
 
 ## 👨‍💻 Autor
 
-**Murillo Nogueira da Silva**  
-Curso de Análise e Desenvolvimento de Sistemas  
-Universidade do Vale do Itajaí
+Murillo Nogueira da Silva
 
----
-
-## 📎 Links Importantes
-
-- 📂 Repositório: *(coloque aqui o link do GitHub)*
-- 🎥 Vídeo de Apresentação: *(link do YouTube)*
-
----
 
 ## 📄 Licença
 
-Este projeto é acadêmico e não possui fins comerciais.
+Este projeto é de uso acadêmico e não possui fins comerciais.
+
+---
+
