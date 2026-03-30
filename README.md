@@ -67,23 +67,6 @@ O projeto utiliza a metodologia **TDD (Test-Driven Development)**, com testes un
 1. Baixe o arquivo APK disponível no Arquivo PDF
 2. Abra o aplicativo
 
-### 💻 Executar via Android Studio
-
-1. Clone o repositório:
-
-```bash
-git clone (SEU LINK AQUI)
-```
-
-2. Abra o projeto no Android Studio
-
-3. Aguarde o carregamento das dependências
-
-4. Execute o projeto em um emulador ou dispositivo físico
-
-
----
-
 ## 📊 Diferenciais
 
 * Interface simples e intuitiva
