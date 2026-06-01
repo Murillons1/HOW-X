@@ -1,4 +1,4 @@
-# HOW-IX
+# HOW-X
 
 # 📱 Finance Track
 
